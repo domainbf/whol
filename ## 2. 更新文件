@@ -1,0 +1,10 @@
+如果你觉得上面的代码符合需求，请将完整的代码内容覆盖到你项目中的以下文件：
+`app/[domain]/page.tsx`
+
+---
+
+### 💡 针对 GitHub 部署的建议（如 Vercel/Netlify）：
+如果你是将代码推送（Push）到 GitHub 触发自动部署，请务必：
+
+1.  **在本地运行一次 `pnpm add lucide-react`**：这会更新你的 `package.json` 和 `pnpm-lock.yaml` 文件。
+2.  **提交（Commit）这两个文件**：
