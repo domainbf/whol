@@ -1,2 +1,3 @@
-# whol
-实验产品
+# Whois
+
+The Next Generation Whois client for Web.
